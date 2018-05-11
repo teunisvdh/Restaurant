@@ -12,4 +12,4 @@
 
 Restaurant shows the menu of a restaurant. Several dishes are shown and sorted by category (appetizers and entrees). 
 
-![Alt text](https://github.con/teunisvdh/Restaurant/blob/master/doc/KnipselRestaurant.JPG)
+![Alt text](https://github.com/teunisvdh/Restaurant/blob/master/doc/KnipselRestaurant.JPG)
